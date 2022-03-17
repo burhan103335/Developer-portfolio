@@ -73,3 +73,7 @@ h2 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+footer p {
+    text-align: center;
+}
